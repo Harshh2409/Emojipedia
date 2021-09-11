@@ -6,7 +6,12 @@ var emojiDictionary = {
   "😂": "face with tears of joy",
   "🙃": "smiling face upside down",
   "😏": "smirking",
-  "🤩": "star struck"
+  "🤩": "star struck",
+  "🤪": "zany face",
+  "😝": "squinting face with tongue",
+  "🤐": "zipper mouth face",
+  "🤗": "hugging face",
+  "😐": "neutral face"
 };
 
 var emojisweknow = Object.keys(emojiDictionary);
